@@ -1,6 +1,6 @@
 {
   "homepage": "http://ibrahim89.github.io/admin-ui-app",
-  "name": "my-app",
+  "name": "admin-ui-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
