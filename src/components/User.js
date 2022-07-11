@@ -326,17 +326,9 @@ export default function User() {
                         <td>{obj.email}</td>
                         <td>{obj.role}</td>
                         <td>
-                          <Button variant="info" onClick={() => editUser(obj)}>
-                            Edit
-                          </Button>
-                        </td>
-                        <td>
-                          <Button
-                            variant="danger"
-                            onClick={() => deleteConfirm(obj)}
-                          >
-                            Delete
-                          </Button>
+                          
+                        <a href="#" className="btn text-dark"><i  className="fa fa-edit" onClick={() => editUser(obj)}></i></a> 
+                         <a href="#" className="btn text-danger"><i className="fa fa-trash fa-lg"  onClick={() => deleteConfirm(obj)}></i></a>
                         </td>
                       </tr>
                     );
