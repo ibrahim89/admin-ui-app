@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/admin-ui-app/static/css/main.65178c65.chunk.css",
+    "main.js": "/admin-ui-app/static/js/main.eb7021ad.chunk.js",
+    "main.js.map": "/admin-ui-app/static/js/main.eb7021ad.chunk.js.map",
+    "runtime~main.js": "/admin-ui-app/static/js/runtime~main.0619bf86.js",
+    "runtime~main.js.map": "/admin-ui-app/static/js/runtime~main.0619bf86.js.map",
+    "static/css/2.13f24655.chunk.css": "/admin-ui-app/static/css/2.13f24655.chunk.css",
+    "static/js/2.a6f27edf.chunk.js": "/admin-ui-app/static/js/2.a6f27edf.chunk.js",
+    "static/js/2.a6f27edf.chunk.js.map": "/admin-ui-app/static/js/2.a6f27edf.chunk.js.map",
+    "index.html": "/admin-ui-app/index.html",
+    "precache-manifest.b95b88d8388b42a64db616d03f8b80dc.js": "/admin-ui-app/precache-manifest.b95b88d8388b42a64db616d03f8b80dc.js",
+    "service-worker.js": "/admin-ui-app/service-worker.js",
+    "static/css/2.13f24655.chunk.css.map": "/admin-ui-app/static/css/2.13f24655.chunk.css.map",
+    "static/css/main.65178c65.chunk.css.map": "/admin-ui-app/static/css/main.65178c65.chunk.css.map",
+    "static/media/font-awesome.min.css": "/admin-ui-app/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
